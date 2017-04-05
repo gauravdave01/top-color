@@ -2,6 +2,11 @@ Top Color
 ----------
 The **Top Color** module is used to fetch top 5 prominent color in an image.
 
+
+### Index Page:
+![Home Screen](http://i.imgur.com/ACP2tyE.png)
+
+
 ### Technology Used: ###
 <code>PHP</code>
 <code>HTML</code>
