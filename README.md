@@ -14,6 +14,7 @@ The **Top Color** module is used to fetch top 5 prominent color in an image.
 ![Main Image](http://i.imgur.com/oGaAkFe.jpg)
 
 ###Top 5 Color
+
 ![Top Color](http://i.imgur.com/Tj4GSeJ.png)
  
  ## Process ##
